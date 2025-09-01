@@ -1,0 +1,45 @@
+body{
+    text-align: center; 
+    font-size: large;
+    color: white;
+    z-index: 0;
+}
+
+.gyatt{
+    color:white;
+    font-size: 16px;
+    z-index: 3;
+    position:relative;
+}
+
+.ttayg{
+    color: white;
+    font-size: 16px;
+    z-index: 3;
+    position: relative;
+}
+
+.container{
+    text-align: left;
+    margin: auto;
+    width:20%;
+    position: relative;
+    z-index: 1;
+}
+
+.columbanz{
+    z-index: 0;
+    position: absolute;
+    border: 20px solid rgb(74, 74, 250);
+    filter: brightness(40%);
+    top: 10px;
+    left: 39%;
+    display: flex;
+}
+
+.cinema {
+    justify-content: center;
+    z-index: 1;
+    position:relative;
+    top: 25px;
+}
